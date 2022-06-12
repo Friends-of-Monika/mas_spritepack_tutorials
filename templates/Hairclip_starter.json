@@ -1,0 +1,26 @@
+{
+    "__author": "______",
+    "version": 3,
+    "type": 0,
+    "name": "____",
+    "img_sit": "_____",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 5,
+    "acs_type": "left-hair-clip",
+    "stay_on_start": true,
+    "ex_props": {
+    },
+    "select_info": {
+        "display_name": "___",
+        "thumb": "_____",
+        "group": "left-hair-clip",
+        "select_dlg": [
+            "____",
+            "_____"
+        ]
+    },
+    "giftname": "_____"
+}

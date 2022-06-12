@@ -1,0 +1,27 @@
+{
+    "__author": "_____",
+    "version": 3,
+    "type": 2,
+    "name": "______",
+    "img_sit": "_____",
+    "pose_map": {
+        "mpm_type": 0,
+        "default": true,
+        "use_reg_for_l": true
+    },
+    "stay_on_start": true,
+    "ex_props": {
+        "bare-shoulders": true
+    },
+    "select_info": {
+        "display_name": "______",
+        "thumb": "_____",
+        "group": "clothes",
+        "select_dlg": [
+            "______",
+            "_____"
+        ]
+    },
+    "giftname": "____",
+    "pose_arms": {}
+}

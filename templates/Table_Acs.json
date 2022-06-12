@@ -1,0 +1,27 @@
+{
+    "__author": "_____",
+    "version": 3,
+    "type": 0,
+    "name": "_____",
+    "img_sit": "______",
+    "pose_map": {
+        "default": "0",
+        "l_default": "0"
+    },
+
+    "rec_layer": 2,
+    "priority": 15,
+    "acs_type": "ltable_acs",
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "_____",
+        "thumb": "____",
+        "group": "ltable_acs",
+        "select_dlg": [
+            "_____"
+        ]
+    },
+    "dlg_desc": "____",
+    "dlg_plural": false,
+    "giftname": "___"
+}

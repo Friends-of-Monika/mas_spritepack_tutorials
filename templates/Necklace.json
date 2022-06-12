@@ -1,0 +1,30 @@
+{
+    "__author": "___",
+    "version": 3,
+    "type": 0,
+    "name": "____",
+    "img_sit": "____",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 8,
+    "acs_type": "necklace",
+    "stay_on_start": true,
+    "priority": 8,
+    "dlg_desc": "necklace",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "____",
+        "thumb": "_____",
+        "group": "necklace",
+        "select_dlg": [
+            "______"
+        ]
+    },
+    "giftname": "_____",
+    "arm_split": {
+        "default": "0",
+        "use_reg_for_l": true
+    }
+}

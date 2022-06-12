@@ -1,0 +1,24 @@
+{
+    "__author": "____",
+    "version": 3,
+    "type": 0,
+    "name": "_____",
+    "img_sit": "________",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 3,
+    "acs_type": "s-type-ribbon",
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "____",
+        "thumb": "______",
+        "group": "ribbon",
+        "select_dlg": [
+          "______"
+
+        ]
+    },
+    "giftname": "_____"
+}
