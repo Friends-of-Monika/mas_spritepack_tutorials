@@ -1,0 +1,24 @@
+How to make a Json!
+Brought to you by the The MAS tutorial Team!
+
+Identify what you are making and then choose the template json that best matches that–there will be more templates added later.
+
+Once the template for your .json is downloaded, you will change the name to have the exact name of your acs or clothing folder name–keep in mind the folder is only for clothing.
+
+ open up the .json and start changing the things with multiple underscores in the .json ((See photo below))
+
+The first thing to be changed will be the author area. This will be changed to either your name if the art is made by you or the original artist name if it is a recolor. 
+
+Next we will be changing the “name” and “img_sit” section of the .json these will be changed to the exact same name of your json–title. If the name of your acs name/clothing folder is the same as the json title, like I recommend, then it will be the same name for both “name” and “img_sit”. “Img_sit” = photo names and “name” = json title
+
+Going forward, we are going to change the “display_name”, this will be what text appears in game when scrolling through the outfits. This can be changed to anything you like, but I recommend not adding any underscores in the “display_name”.
+
+
+Now we will be changing the “thumb” section, this is the thumbnail. This will be changed to the name before the groupofitem- part see image below for more clarification. In the image below the text in the thumb section of the .json will be bunny_hoodie. ((ignore that in the .json picture it doesn’t have that))
+
+
+The next thing to change is the text in the select_dlg. This will be the dialogue Monika says when the item is clicked.
+
+The last thing you will need to change is the “giftname”, which as it’s name suggests is the name of the gift before the .gift file extension–key thing to remember is not to use spaces in the giftname and instead use _ if there is the need for a space.
+
+You are ready to gift! If she can’t read the file check for any spelling mistakes or mistakes in the .png names. Hope this helps!
