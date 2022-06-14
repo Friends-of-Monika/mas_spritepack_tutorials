@@ -1,0 +1,28 @@
+{
+    "__author": "______",
+    "version": 3,
+    "type": 0,
+    "name": "______",
+    "img_sit": "______",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 10,
+    "acs_type": "earrings",
+    "mux_type": [
+        "earrings"
+    ],
+    "stay_on_start": true,
+    "giftname": "______",
+    "dlg_desc": "______",
+    "dlg_plural": true,
+    "select_info": {
+        "display_name": "______",
+        "thumb": "______",
+        "group": "earrings",
+        "select_dlg": [
+            "______"
+        ]
+    }
+}
