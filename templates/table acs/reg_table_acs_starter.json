@@ -11,12 +11,12 @@
 
     "rec_layer": 2,
     "priority": 15,
-    "acs_type": "ltable_acs",
+    "acs_type": "table_acs",
     "stay_on_start": true,
     "select_info": {
         "display_name": "_____",
         "thumb": "____",
-        "group": "ltable_acs",
+        "group": "table_acs",
         "select_dlg": [
             "_____"
         ]
