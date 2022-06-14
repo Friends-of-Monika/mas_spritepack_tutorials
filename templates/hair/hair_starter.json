@@ -1,0 +1,26 @@
+{
+    "__author": "________",
+    "version": 3,
+    "type": 1,
+    "name": "________",
+    "img_sit": "________",
+    "pose_map": {
+        "mpm_type": 0,
+        "default": true,
+        "use_reg_for_l": true
+    },
+    "stay_on_start": true,
+    "ex_props": {
+        "ribbon": true,
+	"day": true
+    },
+    "select_info": {
+        "display_name": "________",
+        "thumb": "________",
+        "group": "hair",
+        "select_dlg": [
+            "________"
+        ]
+    },
+    "unlock": true
+}
