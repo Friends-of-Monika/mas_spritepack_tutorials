@@ -1,0 +1,28 @@
+{
+    "__author": "_____",
+    "version": 3,
+    "type": 0,
+    "name": "_____",
+    "img_sit": "_____",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 5,
+    "acs_type": "facepaint_acs",
+    "mux_type": [
+        "facepaint"
+    ],
+    "stay_on_start": true,
+    "giftname": "_____",
+    "dlg_desc": "_____",
+    "dlg_plural": true,
+    "select_info": {
+        "display_name": "_____",
+        "thumb": "_____",
+        "group": "facepaint_acs",
+        "select_dlg": [
+            "_____"
+        ]
+    }
+}
